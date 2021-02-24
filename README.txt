@@ -5,3 +5,4 @@ System Requirements
 -  MySQL Versi ....
 -  HTTP
 -  Redis
+-  Phyton
